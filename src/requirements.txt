@@ -1,0 +1,5 @@
+argparse
+distro
+ffmpeg-python
+pyrogram
+requests
